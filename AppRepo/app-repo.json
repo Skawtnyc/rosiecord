@@ -24,7 +24,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font.ipa",
-                    "size": 103195561
+                    "size": 103191366
                 },
                 
                 {
@@ -51,7 +51,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font.ipa",
-                    "size": 103171111
+                    "size": 103166916
                 },
 
                 {
@@ -78,7 +78,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Flowercord.ipa",
-                    "size": 103188679
+                    "size": 103184499
                 },
 
                 {
@@ -105,7 +105,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Iconsax_Icons.ipa",
-                    "size": 104411971
+                    "size": 104407776
                 },
 
                 {
@@ -132,7 +132,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
-                    "size": 104429539
+                    "size": 104425359
                 },
 
                 {
@@ -159,7 +159,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Plumpy_Icons.ipa",
-                    "size": 110046625
+                    "size": 110042430
                 },
 
                 {
@@ -186,7 +186,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
-                    "size": 110064193
+                    "size": 110060013
                 },
 
                 {
@@ -213,7 +213,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Flowercord.ipa",
-                    "size": 103213129
+                    "size": 103208949
                 },
                 
                 {
@@ -227,10 +227,11 @@
         },
 
         {
-            "name": "Rosiecord (GGSans Font + Iconsax Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Default Discord font & Iconsax icons.",
+            "subtitle": "GGSans Font + Iconsax Icons",
+            "localizedDescription": "Rosiecord with default Discord font & Iconsax icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -239,7 +240,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Iconsax_Icons.ipa",
-                    "size": 104436421
+                    "size": 104432226
                 },
 
                 {
@@ -266,7 +267,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
-                    "size": 104453989
+                    "size": 104449809
                 },
 
                 {
@@ -293,7 +294,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Plumpy_Icons.ipa",
-                    "size": 110071075
+                    "size": 110066880
                 },
                 
                 {
@@ -320,7 +321,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
-                    "size": 110088643
+                    "size": 110084463
                 },
                 {
                     "version": "252.0",
@@ -346,7 +347,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font.ipa",
-                    "size": 103064278
+                    "size": 103060083
                 },
 
                 {
@@ -373,7 +374,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Flowercord.ipa",
-                    "size": 103081846
+                    "size": 103077666
                 },
 
                 {
@@ -400,7 +401,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Iconsax_Icons.ipa",
-                    "size": 104305138
+                    "size": 104300943
                 },
 
                 {
@@ -427,7 +428,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
-                    "size": 104322706
+                    "size": 104318526
                 },
 
                 {
@@ -454,7 +455,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Plumpy_Icons.ipa",
-                    "size": 109939792
+                    "size": 109935597
                 },
 
                 {
@@ -481,7 +482,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
-                    "size": 109957360
+                    "size": 109953180
                 },
 
                 {
@@ -508,7 +509,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font.ipa",
-                    "size": 103099995
+                    "size": 103095800
                 },
 
                 {
@@ -535,7 +536,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Flowercord.ipa",
-                    "size": 103117563
+                    "size": 103113383
                 },
 
                 {
@@ -562,7 +563,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Iconsax_Icons.ipa",
-                    "size": 104340855
+                    "size": 104336660
                 },
 
                 {
@@ -589,7 +590,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
-                    "size": 104358423
+                    "size": 104354243
                 },
 
                 {
@@ -616,7 +617,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Plumpy_Icons.ipa",
-                    "size": 109975509
+                    "size": 109971314
                 },
 
                 {
@@ -643,7 +644,7 @@
                     "version": "253.0",
                     "date": "2024-10-21",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
-                    "size": 109993077
+                    "size": 109988897
                 },
 
                 {
