@@ -11,10 +11,11 @@
     ],
     "apps": [
         {
-            "name": "Rosiecord (GGSans Font)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Rosiecord with default Discord font.",
+            "subtitle": "GGSans Font",
+            "localizedDescription": "Rosiecord with default Discord font.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -37,10 +38,11 @@
         },
         
         {
-            "name": "Rosiecord (Cabin Font)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Rosiecord with Cabin font.",
+            "subtitle": "Cabin Font",
+            "localizedDescription": "Rosiecord with Cabin font.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -63,10 +65,11 @@
         },
         
         {
-            "name": "Rosiecord (Cabin Font + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Cabin font & Flowercord.",
+            "subtitle": "Cabin font + Flowercord",
+            "localizedDescription": "Rosiecord with Cabin font & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -89,10 +92,11 @@
         },
 
         {
-            "name": "Rosiecord (Cabin Font + Iconsax Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Cabin font & Iconsax icons.",
+            "subtitle": "Cabin font + Iconsax Icons",
+            "localizedDescription": "Rosiecord with Cabin font & Iconsax icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -115,10 +119,11 @@
         },
 
         {
-            "name": "Rosiecord (Cabin Font + Iconsax Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Cabin font, Iconsax icons & Flowercord.",
+            "subtitle": "Cabin font + Iconsax Icons + Flowercord",
+            "localizedDescription": "Rosiecord with Cabin font, Iconsax icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -141,10 +146,11 @@
         },
 
         {
-            "name": "Rosiecord (Cabin Font + Plumpy Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Cabin font & Plumpy icons.",
+            "subtitle": "Cabin font + Plumpy Icons",
+            "localizedDescription": "Rosiecord with Cabin font & Plumpy icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -167,10 +173,11 @@
         },
 
         {
-            "name": "Rosiecord (Cabin Font + Plumpy Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Cabin font, Plumpy icons & Flowercord.",
+            "subtitle": "Cabin font + Plumpy icons + Flowercord",
+            "localizedDescription": "Rosiecord with Cabin font, Plumpy icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -193,10 +200,11 @@
         },
 
         {
-            "name": "Rosiecord (GGSans Font + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Default Discord font & Flowercord.",
+            "subtitle": "GGSans Font + Flowercord",
+            "localizedDescription": "Rosiecord with default Discord font & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -245,10 +253,11 @@
         },
 
         {
-            "name": "Rosiecord (GGSans Font + Iconsax Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Default Discord font, Iconsax icons & Flowercord.",
+            "subtitle": "GGSans Font + Iconsax Icons + Flowercord",
+            "localizedDescription": "Rosiecord with default Discord font, Iconsax icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -271,10 +280,11 @@
         },
 
         {
-            "name": "Rosiecord (GGSans Font + Plumpy Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Default Discord font & Plumpy icons.",
+            "subtitle": "GGSans Font + Plumpy Icons",
+            "localizedDescription": "Rosiecord with default Discord font & Plumpy icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -297,10 +307,11 @@
         },
 
         {
-            "name": "Rosiecord (GGSans Font + Plumpy Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Default Discord font, Plumpy icons & Flowercord.",
+            "subtitle": "GGSans Font + Plumpy Icons + Flowercord",
+            "localizedDescription": "Rosiecord with default Discord font, Plumpy icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -322,10 +333,11 @@
         },
 
         {
-            "name": "Rosiecord (Quicksand Font)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Rosiecord with Quicksand font.",
+            "subtitle": "Quicksand Font",
+            "localizedDescription": "Rosiecord with Quicksand font.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -348,10 +360,11 @@
         },
 
         {
-            "name": "Rosiecord (Quicksand Font + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Quicksand font & Flowercord.",
+            "subtitle": "Quicksand Font + Flowercord",
+            "localizedDescription": "Rosiecord with Quicksand font & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -374,10 +387,11 @@
         },
 
         {
-            "name": "Rosiecord (Quicksand Font + Iconsax Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Quicksand font & Iconsax icons.",
+            "subtitle": "Quicksand Font + Iconsax Icons",
+            "localizedDescription": "Rosiecord with Quicksand font & Iconsax icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -400,10 +414,11 @@
         },
 
         {
-            "name": "Rosiecord (Quicksand Font + Iconsax Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Quicksand font, Iconsax icons & Flowercord.",
+            "subtitle": "Quicksand Font + Iconsax Icons + Flowercord",
+            "localizedDescription": "Rosiecord with Quicksand font, Iconsax icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -426,10 +441,11 @@
         },
         
         {
-            "name": "Rosiecord (Quicksand Font + Plumpy Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Quicksand font & Plumpy icons.",
+            "subtitle": "Quicksand Font + Plumpy Icons",
+            "localizedDescription": "Rosiecord with Quicksand font & Plumpy icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -452,10 +468,11 @@
         },
 
         {
-            "name": "Rosiecord (Quicksand Font + Plumpy Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Quicksand font, Plumpy icons & Flowercord.",
+            "subtitle": "Quicksand Font + Plumpy Icons + Flowercord",
+            "localizedDescription": "Rosiecord with Quicksand font, Plumpy icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -478,10 +495,11 @@
         },
 
         {
-            "name": "Rosiecord (Whitney Font)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Rosiecord with old Discord font.",
+            "subtitle": "Whitney Font",
+            "localizedDescription": "Rosiecord with old Discord font.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -504,10 +522,11 @@
         },
 
         {
-            "name": "Rosiecord (Whitney Font + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Old Discord font & Flowercord.",
+            "subtitle": "Whitney Font + Flowercord",
+            "localizedDescription": "Rosiecord with old Discord font & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -530,10 +549,11 @@
         },
 
         {
-            "name": "Rosiecord (Whitney Font + Iconsax Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Old Discord font & Iconsax icons.",
+            "subtitle": "Whitney Font + Iconsax Icons",
+            "localizedDescription": "Rosiecord with old Discord font & Iconsax icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -556,10 +576,11 @@
         },
 
         {
-            "name": "Rosiecord (Whitney Font + Iconsax Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Old Discord font, Iconsax icons & Flowercord.",
+            "subtitle": "Whitney Font + Iconsax Icons + Flowercord",
+            "localizedDescription": "Rosiecord with old Discord font, Iconsax icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -582,10 +603,11 @@
         },
 
         {
-            "name": "Rosiecord (Whitney Font + Plumpy Icons)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Old Discord font & Plumpy icons.",
+            "subtitle": "Whitney Font + Plumpy Icons",
+            "localizedDescription": "Rosiecord with old Discord font & Plumpy icons.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
@@ -608,10 +630,11 @@
         },
 
         {
-            "name": "Rosiecord (Whitney Font + Plumpy Icons + Flowercord)",
+            "name": "Rosiecord",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Old Discord font, Plumpy icons & Flowercord.",
+            "subtitle": "Whitney Font + Plumpy Icons + Flowercord",
+            "localizedDescription": "Rosiecord with old Discord font, Plumpy icons & Flowercord.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
             "category": "utilities",
