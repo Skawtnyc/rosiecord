@@ -277,8 +277,8 @@ const main = async () => {
         });
     }
     await D.logDivider();
-    await Init.PackageTweak("Flowercord", "gmake package", "Optional");
-    await Init.PackageTweak("SideloadFix", "gmake package", "Required");
+    // await Init.PackageTweak("Flowercord", "gmake package", "Optional");
+    // await Init.PackageTweak("SideloadFix", "gmake package", "Required");
     await Init.InitializeAzule();
     await D.logDivider();
     for (let i = 0; i <= 3; i++) {
