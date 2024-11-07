@@ -26,7 +26,7 @@ jobs:
 
       - name: Run Main Node Script to Patch Rosiecord
         id: build
-        run: node ./index.js
+        run: sh ./script.sh
         
       - name: Retrieve version
         id: version
