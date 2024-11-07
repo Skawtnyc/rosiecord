@@ -8,10 +8,7 @@ The [Releases](https://github.com/Skawtnyc/rosiecord/releases/) tab has all of t
 
 **Please note that Rosiecord does not work with Altstore, and must be used with Sideloadly.**
 
-Here is what the 2 different releases for each Discord Version mean:
-
-- Rosiecord_[VERSION] (K2Genmity)
-  - Contains a custom [Enmity](https://github.com/enmity-mod) tweak by [Mafu](https://github.com/m4fn3) called [K2Gemity](https://github.com/m4fn3/K2genmity) which allows for biometric authentication with the use of the [K2geLocker](https://github.com/m4fn3/K2geLocker) plugin.
+Here is what the releases for each Discord Version mean:
 
 - Rosiecord_[VERSION]
   - Contains a regular [Enmity](https://github.com/enmity-mod) tweak, downloaded from [here](https://github.com/enmity-mod/tweak) and injected into every IPA.
