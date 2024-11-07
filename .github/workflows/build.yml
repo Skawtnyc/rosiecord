@@ -14,15 +14,31 @@ jobs:
         id: core
         run: brew install coreutils ldid
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade wheel
+
       - name: Run Main Node Script to Patch Rosiecord
         id: build
-        run: sh ./script.sh
+        run: node ./index.js
         
       - name: Retrieve version
         id: version
         run: |
           cd ./ipas
-          echo "__DISCORD_VERSION=$(ls | grep Discord | sed -e s/[^0-9.]//g | sed -e s/[/.+?\./]//g)" >> $GITHUB_OUTPUT  
+          echo "__DISCORD_VERSION=$(ls | grep Discord | sed -e s/[^0-9.]//g | sed -e s/[/.+?\./]//g)" >> $GITHUB_OUTPUT
+
+      - name: Run the PathFixer script
+        run: |
+          python pathfixer.py
+        env:
+          BASE_DIRECTORY: Dist
 
       - name: Create release
         uses: marvinpinto/action-automatic-releases@latest
