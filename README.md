@@ -17,23 +17,13 @@ Here is what the releases for each Discord Version mean:
 
 People wanted variations for each IPA, so here is what each IPA means and how the naming convention works:
 
-Rosiecord_[[FontName]](https://github.com/acquitelol/rosiecord/tree/master/Fonts/woff2)-Font+[[IconPack]](https://github.com/acquitelol/rosiecord/tree/master/Packs)_Pack([[+Flowercord]](https://github.com/acquitelol/rosiecord/tree/master/Flowercord_Patcher)).ipa
+Rosiecord_[[FontName]](https://github.com/acquitelol/rosiecord/tree/master/Fonts/woff2)-Font+[[IconPack]](https://github.com/acquitelol/rosiecord/tree/master/Packs)
 
              ^^^ Font used    ^^^ Icon pack used
 
 ## You can look at the IPA names in [Releases](https://github.com/acquitelol/rosiecord/releases/), and choose the best one to fit your needs
 
-### What is [Flowercord](https://github.com/acquitelol/rosiecord/tree/master/Flowercord_Patcher)?
-
-#### [Flowercord](https://github.com/acquitelol/rosiecord/tree/master/Flowercord_Patcher) is an optional tweak injected into the Rosiecord IPA
-
-#### It adds chat bubbles to messages and makes profile pictures in the chat area square. The following is a screenshot showing this
-
-<img width="350" alt="Default with Flowercord" src="Mocks/Default_Flowercord.png">
-
 ### Icon Pack Screenshots
-
-#### This section highlights what each [icon pack](https://github.com/acquitelol/rosiecord/tree/master/Packs/) looks like with and without [Flowercord](https://github.com/acquitelol/rosiecord/tree/master/Flowercord_Patcher)
 
 #### Of course, these screenshots will vary depending on the font and theme you use. The screenshots are simply meant to show what the [icon packs](https://github.com/acquitelol/rosiecord/tree/master/Packs/) look like
 
@@ -41,24 +31,21 @@ Rosiecord_[[FontName]](https://github.com/acquitelol/rosiecord/tree/master/Fonts
 
 (The default normie look)
 <div style='display: flex;' align='left'>
-  <img width="350" alt="Default without Flowercord" src="Mocks/Default.png">
-  <img width="350" alt="Default with Flowercord" src="Mocks/Default_Flowercord.png">
+  <img width="350" alt="Default" src="Mocks/Default.png">
 </div>
 
 ## [Plumpy](https://github.com/acquitelol/rosiecord/tree/master/Packs/Plumpy) - [Install](https://github.com/acquitelol/rosiecord/releases/latest)
 
 (Probably the most liked pack, constantly updated with new icons by another Rosie :3)
 <div style='display: flex;' align='left'>
-  <img width="350" alt="Plumpy without Flowercord" src="Mocks/Plumpy.png">
-  <img width="350" alt="Plumpy with Flowercord" src="Mocks/Plumpy_Flowercord.png">
+  <img width="350" alt="Plumpy" src="Mocks/Plumpy.png">
 </div>
 
 ## [Iconsax](https://github.com/acquitelol/rosiecord/tree/master/Packs/Iconsax) - [Install](https://github.com/acquitelol/rosiecord/releases/latest)
 
 (Uses some icons from Plumpy, given by Flower :3, includes quite modern icons.)
 <div style='display: flex;' align='left'>
-  <img width="350" alt="Iconsax without Flowercord" src="Mocks/Iconsax.png">
-  <img width="350" alt="Iconsax with Flowercord" src="Mocks/Iconsax_Flowercord.png">
+  <img width="350" alt="Iconsax" src="Mocks/Iconsax.png">
 </div>
 
 Created with <3 By **Rosie** in TypeScript :3
