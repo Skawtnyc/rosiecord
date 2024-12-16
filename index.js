@@ -139,16 +139,16 @@ const EntryPoint = async (index, ipaName) => {
             });
             break;
         }
-        // case 3: {
-        //     const M = new Main('Tweak', "Optional Variations");
-        //     await M.Main(async () => {
-        //         await new Inject("Flowercord", 'Flowercord', false, "ls Patches/Optional").run(M, async (ipaName, patchName) => {
-        //             await Shell.run(`Azule/azule -U -i Dist/${ipaName}.ipa -o Dist -f $PWD/Patches/Optional/${patchName} -v & wait $!`);
-        //             await Shell.run(`mv Dist/${ipaName}+${patchName}.ipa Dist/${ipaName}+Flowercord.ipa`);
-        //         });
-        //     });
-        //     break;
-        // }
+        case 3: {
+            const M = new Main('Tweak', "Optional Variations");
+            await M.Main(async () => {
+                await new Inject("Flowercord", 'Flowercord', false, "ls Patches/Optional").run(M, async (ipaName, patchName) => {
+                    await Shell.run(`Azule/azule -U -i Dist/${ipaName}.ipa -o Dist -f $PWD/Patches/Optional/${patchName} -v & wait $!`);
+                    await Shell.run(`mv Dist/${ipaName}+${patchName}.ipa Dist/${ipaName}+Flowercord.ipa`);
+                });
+            });
+            break;
+        }
         default:
             break;
     }
